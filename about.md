@@ -65,7 +65,7 @@ Github:   [3gstudent](https://github.com/3gstudent)
 
 ---
 
-### Recent Posts(191/192)
+### Recent Posts(211/214)
 
 - 
  [An interesting way of bypassing Windows Attachment Manager](https://3gstudent.github.io/3gstudent.github.io/An-interesting-way-of-bypassing-Windows-Attachment-Manager/)
@@ -101,7 +101,10 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [CIA Vault7 RDB中的Windows后门利用方法分析](https://3gstudent.github.io/3gstudent.github.io/CIA-Vault7-RDB%E4%B8%AD%E7%9A%84Windows%E5%90%8E%E9%97%A8%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95%E5%88%86%E6%9E%90/)
  
 - 
- Covenant利用分析
+ [Cobalt Strike的blockdlls利用分析](https://3gstudent.github.io/3gstudent.github.io/Cobalt_Strike%E7%9A%84blockdlls%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
+ 
+- 
+ [Covenant利用分析](https://3gstudent.github.io/3gstudent.github.io/Covenant%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
  
 - 
  [CVE-2017-8360(Keylogger in HP Audio Driver)利用分析](https://3gstudent.github.io/3gstudent.github.io/CVE-2017-8360(Keylogger-in-HP-Audio-Driver)%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
@@ -143,6 +146,9 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [NSA DanderSpiritz测试指南——木马生成与测试](https://3gstudent.github.io/3gstudent.github.io/NSA-DanderSpiritz%E6%B5%8B%E8%AF%95%E6%8C%87%E5%8D%97-%E6%9C%A8%E9%A9%AC%E7%94%9F%E6%88%90%E4%B8%8E%E6%B5%8B%E8%AF%95/)
 
 -  
+ [Invoke-PowerThIEf利用分析](https://3gstudent.github.io/3gstudent.github.io/Invoke-PowerThIEf%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
+
+-  
  [Invoke-PSImage利用分析](https://3gstudent.github.io/3gstudent.github.io/Invoke-PSImage%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
 
 -  
@@ -150,6 +156,9 @@ Github:   [3gstudent](https://github.com/3gstudent)
  
 -  
  [Mimikatz中SSP的使用](https://3gstudent.github.io/3gstudent.github.io/Mimikatz%E4%B8%ADSSP%E7%9A%84%E4%BD%BF%E7%94%A8/)
+ 
+-  
+ [Mimilib利用分析](https://3gstudent.github.io/3gstudent.github.io/Mimilib%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
  
 -  
  [Office Persistence on x64 operating system](https://3gstudent.github.io/3gstudent.github.io/Office-Persistence-on-x64-operating-system/)
@@ -165,6 +174,12 @@ Github:   [3gstudent](https://github.com/3gstudent)
  
 - 
  [Process Doppelganging利用介绍](https://3gstudent.github.io/3gstudent.github.io/Process-Doppelganging%E5%88%A9%E7%94%A8%E4%BB%8B%E7%BB%8D/)
+ 
+- 
+ [ProcessHider利用分析](https://3gstudent.github.io/3gstudent.github.io/ProcessHider%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
+ 
+- 
+ Pupy利用分析——Windows平台下的功能
  
 - 
  [SharpGen利用分析](https://3gstudent.github.io/3gstudent.github.io/SharpGen%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
@@ -320,6 +335,9 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [Windows下的密码hash——Net-NTLMv1介绍](https://3gstudent.github.io/3gstudent.github.io/Windows%E4%B8%8B%E7%9A%84%E5%AF%86%E7%A0%81hash-Net-NTLMv1%E4%BB%8B%E7%BB%8D/)
 
 - 
+ Zimbra SOAP API开发指南
+
+- 
  [本地密码查看工具LaZagne中的自定义脚本开发](https://3gstudent.github.io/3gstudent.github.io/%E6%9C%AC%E5%9C%B0%E5%AF%86%E7%A0%81%E6%9F%A5%E7%9C%8B%E5%B7%A5%E5%85%B7LaZagne%E4%B8%AD%E7%9A%84%E8%87%AA%E5%AE%9A%E4%B9%89%E8%84%9A%E6%9C%AC%E5%BC%80%E5%8F%91/)
  
 - 
@@ -372,6 +390,9 @@ Github:   [3gstudent](https://github.com/3gstudent)
 
 - 
  [利用IIS的端口共享功能绕过防火墙](https://3gstudent.github.io/3gstudent.github.io/%E5%88%A9%E7%94%A8IIS%E7%9A%84%E7%AB%AF%E5%8F%A3%E5%85%B1%E4%BA%AB%E5%8A%9F%E8%83%BD%E7%BB%95%E8%BF%87%E9%98%B2%E7%81%AB%E5%A2%99/)
+
+- 
+ [利用IIS的模块功能绕过防火墙](https://3gstudent.github.io/3gstudent.github.io/%E5%88%A9%E7%94%A8IIS%E7%9A%84%E6%A8%A1%E5%9D%97%E5%8A%9F%E8%83%BD%E7%BB%95%E8%BF%87%E9%98%B2%E7%81%AB%E5%A2%99/)
 
 - 
  [利用JS/Vbs加载.Net程序](https://3gstudent.github.io/3gstudent.github.io/%E5%88%A9%E7%94%A8JS%E5%8A%A0%E8%BD%BD.Net%E7%A8%8B%E5%BA%8F/)
@@ -428,16 +449,31 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [渗透基础——从Exchange服务器上搜索和导出邮件](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E4%BB%8EExchange%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E6%90%9C%E7%B4%A2%E5%92%8C%E5%AF%BC%E5%87%BA%E9%82%AE%E4%BB%B6/)
  
 - 
+ [渗透基础——从lsass.exe进程导出凭据](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E4%BB%8Elsass.exe%E8%BF%9B%E7%A8%8B%E5%AF%BC%E5%87%BA%E5%87%AD%E6%8D%AE/)
+ 
+- 
  [渗透基础——端口转发与代理](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91%E4%B8%8E%E4%BB%A3%E7%90%86/)
  
 - 
  [渗透基础——获得当前系统已安装的程序列表](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E8%8E%B7%E5%BE%97%E5%BD%93%E5%89%8D%E7%B3%BB%E7%BB%9F%E5%B7%B2%E5%AE%89%E8%A3%85%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%88%97%E8%A1%A8/)
  
 - 
+ [渗透基础——活动目录信息的获取](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E6%B4%BB%E5%8A%A8%E7%9B%AE%E5%BD%95%E4%BF%A1%E6%81%AF%E7%9A%84%E8%8E%B7%E5%8F%96/)
+ 
+- 
+ [渗透基础——命令行下安装Microsoft .NET Framework](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%B8%8B%E5%AE%89%E8%A3%85Microsoft_.NET_Framework/)
+ 
+- 
  [渗透基础——使用Go语言开发socks代理工具](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E4%BD%BF%E7%94%A8Go%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91socks%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7/)
  
 - 
+ [渗透基础——通过LDAP协议暴力破解域用户的口令](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E9%80%9A%E8%BF%87LDAP%E5%8D%8F%E8%AE%AE%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3%E5%9F%9F%E7%94%A8%E6%88%B7%E7%9A%84%E5%8F%A3%E4%BB%A4/)
+ 
+- 
  [渗透基础——选择一个合适的C2域名](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E9%80%89%E6%8B%A9%E4%B8%80%E4%B8%AA%E5%90%88%E9%80%82%E7%9A%84C2%E5%9F%9F%E5%90%8D/)
+ 
+- 
+ [渗透基础——域内用户口令策略的获取](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E5%9F%9F%E5%86%85%E7%94%A8%E6%88%B7%E5%8F%A3%E4%BB%A4%E7%AD%96%E7%95%A5%E7%9A%84%E8%8E%B7%E5%8F%96/)
  
 - 
  [渗透技巧——PPTP口令的获取与爆破](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-PPTP%E5%8F%A3%E4%BB%A4%E7%9A%84%E8%8E%B7%E5%8F%96%E4%B8%8E%E7%88%86%E7%A0%B4/) 
@@ -515,7 +551,13 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [渗透技巧——从github下载文件的多种方法](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E4%BB%8Egithub%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%B3%95/)
 
 - 
+ [渗透技巧——从远程桌面客户端提取明文凭据](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E4%BB%8E%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%8F%90%E5%8F%96%E6%98%8E%E6%96%87%E5%87%AD%E6%8D%AE/)
+
+- 
  [渗透技巧——导出Chrome浏览器中保存的密码](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E5%AF%BC%E5%87%BAChrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%BF%9D%E5%AD%98%E7%9A%84%E5%AF%86%E7%A0%81/)
+ 
+- 
+ [渗透技巧——导出Firefox浏览器中保存的密码](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E5%AF%BC%E5%87%BAFirefox%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%BF%9D%E5%AD%98%E7%9A%84%E5%AF%86%E7%A0%81/)
  
 - 
  [渗透技巧——获得Powershell命令的历史记录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E8%8E%B7%E5%BE%97Powershell%E5%91%BD%E4%BB%A4%E7%9A%84%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95/)
@@ -557,7 +599,16 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [渗透技巧——模拟IE浏览器下载文件](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E6%A8%A1%E6%8B%9FIE%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6/)
  
 - 
+ 渗透技巧——使用Mimilib从dump文件中导出口令
+ 
+- 
+ [渗透技巧——使用远程桌面协议建立通道](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E4%BD%BF%E7%94%A8%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%8D%8F%E8%AE%AE%E5%BB%BA%E7%AB%8B%E9%80%9A%E9%81%93/)
+ 
+- 
  [渗透技巧——通过HTTP协议获得Net-NTLM hash](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E9%80%9A%E8%BF%87HTTP%E5%8D%8F%E8%AE%AE%E8%8E%B7%E5%BE%97Net-NTLM-hash/)
+ 
+- 
+ [渗透技巧——通过Kerberos pre-auth进行用户枚举和口令爆破](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E9%80%9A%E8%BF%87Kerberos-pre-auth%E8%BF%9B%E8%A1%8C%E7%94%A8%E6%88%B7%E6%9E%9A%E4%B8%BE%E5%92%8C%E5%8F%A3%E4%BB%A4%E7%88%86%E7%A0%B4/)
  
 - 
  [渗透技巧——通过SAM数据库获得本地用户hash](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E9%80%9A%E8%BF%87SAM%E6%95%B0%E6%8D%AE%E5%BA%93%E8%8E%B7%E5%BE%97%E6%9C%AC%E5%9C%B0%E7%94%A8%E6%88%B7hash/)
@@ -572,7 +623,13 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [渗透技巧——"隐藏"注册表的更多测试](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E9%9A%90%E8%97%8F-%E6%B3%A8%E5%86%8C%E8%A1%A8%E7%9A%84%E6%9B%B4%E5%A4%9A%E6%B5%8B%E8%AF%95/)
 
 - 
+ [通过.NET实现内存加载PE文件](https://3gstudent.github.io/3gstudent.github.io/%E9%80%9A%E8%BF%87.NET%E5%AE%9E%E7%8E%B0%E5%86%85%E5%AD%98%E5%8A%A0%E8%BD%BDPE%E6%96%87%E4%BB%B6/)
+
+- 
  [通过APC实现Dll注入——绕过Sysmon监控](https://3gstudent.github.io/3gstudent.github.io/%E9%80%9A%E8%BF%87APC%E5%AE%9E%E7%8E%B0Dll%E6%B3%A8%E5%85%A5-%E7%BB%95%E8%BF%87Sysmon%E7%9B%91%E6%8E%A7/)
+
+- 
+ [通过Boolang语言执行shellcode的利用分析](https://3gstudent.github.io/3gstudent.github.io/%E9%80%9A%E8%BF%87Boolang%E8%AF%AD%E8%A8%80%E6%89%A7%E8%A1%8Cshellcode%E7%9A%84%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
 
 - 
  [通过COM组件IFileOperation越权复制文件](https://3gstudent.github.io/3gstudent.github.io/%E9%80%9A%E8%BF%87COM%E7%BB%84%E4%BB%B6IFileOperation%E8%B6%8A%E6%9D%83%E5%A4%8D%E5%88%B6%E6%96%87%E4%BB%B6/)
@@ -582,6 +639,12 @@ Github:   [3gstudent](https://github.com/3gstudent)
  
 - 
  [通过COM组件IARPUninstallStringLauncher绕过UAC](https://3gstudent.github.io/3gstudent.github.io/%E9%80%9A%E8%BF%87COM%E7%BB%84%E4%BB%B6IARPUninstallStringLauncher%E7%BB%95%E8%BF%87UAC/)
+ 
+- 
+ [通过Mono(跨平台.NET运行环境)执行shellcode](https://3gstudent.github.io/3gstudent.github.io/%E9%80%9A%E8%BF%87Mono(%E8%B7%A8%E5%B9%B3%E5%8F%B0.NET%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83)%E6%89%A7%E8%A1%8Cshellcode/)
+ 
+- 
+ [通过Network Security Services导出Firefox浏览器中保存的密码](https://3gstudent.github.io/3gstudent.github.io/%E9%80%9A%E8%BF%87Network-Security-Services%E5%AF%BC%E5%87%BAFirefox%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%BF%9D%E5%AD%98%E7%9A%84%E5%AF%86%E7%A0%81/)
  
 - 
  [通过模拟可信目录绕过UAC的利用分析](https://3gstudent.github.io/3gstudent.github.io/%E9%80%9A%E8%BF%87%E6%A8%A1%E6%8B%9F%E5%8F%AF%E4%BF%A1%E7%9B%AE%E5%BD%95%E7%BB%95%E8%BF%87UAC%E7%9A%84%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
@@ -612,6 +675,9 @@ Github:   [3gstudent](https://github.com/3gstudent)
 
 - 
  [域渗透——普通用户权限获得DNS记录](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90%E8%8E%B7%E5%BE%97DNS%E8%AE%B0%E5%BD%95/)
+
+- 
+ [域渗透——DNS记录与MachineAccount](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-DNS%E8%AE%B0%E5%BD%95%E4%B8%8EMachineAccount/)
 
 - 
  [域渗透——Kerberoasting](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-Kerberoasting/)
